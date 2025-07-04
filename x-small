@@ -1,0 +1,7 @@
+.image{
+    height: 10em;
+    width: 10em;
+    filter: drop-shadow(5px 10px 7px  rgb(241, 241, 201));
+    flex-direction: column;
+    
+}
